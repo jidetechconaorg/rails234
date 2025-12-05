@@ -2386,10 +2386,10 @@ qs@~6.5.2:
   resolved "https://registry.npmjs.org/qs/-/qs-6.5.3.tgz"
   integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
-qunit@^2.8.0:
-  version "2.19.4"
-  resolved "https://registry.npmjs.org/qunit/-/qunit-2.19.4.tgz"
-  integrity sha512-aqUzzUeCqlleWYKlpgfdHHw9C6KxkB9H3wNfiBg5yHqQMzy0xw/pbCRHYFkjl8MsP/t8qkTQE+JTYL71azgiew==
+qunit@^2.24.3:
+  version "2.24.3"
+  resolved "https://registry.yarnpkg.com/qunit/-/qunit-2.24.3.tgz#7db9a60d9bf902dad2271ee2386a672f22c97d2a"
+  integrity sha512-JTHwSfHf2Cw8TqusZo2tT4F9d+XA/pp/veoxUDiPNHtB1Wc1VPctiHHIv6HA3vrXNOBu9LSzFM7YU2OV9Gz4vQ==
   dependencies:
     commander "7.2.0"
     node-watch "0.7.3"
